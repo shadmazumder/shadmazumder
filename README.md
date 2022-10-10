@@ -1,6 +1,4 @@
-### Hi there 👋
-
-![Rayhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadmazumder&count_private=true&show_icons=true&theme=dark)
+![Rayhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadmazumder&count_private=true&show_icons=true&theme=dark&hide=contribs)
 
 
 <!--
