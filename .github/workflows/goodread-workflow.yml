@@ -15,3 +15,4 @@ jobs:
         with:
           goodreads_user_id: "89076652"
           shelf: "read"
+          "max_books_count": 40
