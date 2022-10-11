@@ -18,6 +18,10 @@ Some insights on my GitHub profile
 - [Xcode Shortcuts the iOS Cheat Sheet](https://mobidevtalk.com/xcode-shortcuts-cheat-sheet/)
 <!-- BLOG-POST-LIST:END -->
 
+### Books I read
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
+
 ## Profiles
 [![Github Badge](https://img.shields.io/badge/-Github-232323?logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/shadmazumder)
 
