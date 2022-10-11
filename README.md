@@ -9,6 +9,8 @@ Some insights on my GitHub profile
 ### Trophies
 ![Trophy](https://github-profile-trophy.vercel.app/?username=shadmazumder&column=8&margin-w=15&margin-h=15&no-bg=true&theme=dark)
 
+## Recent Posts
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 ## Profiles
 [![Github Badge](https://img.shields.io/badge/-Github-232323?logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/shadmazumder)
