@@ -14,7 +14,8 @@ Some insights on my GitHub profile
 ### Badges
 [![Github Badge](https://img.shields.io/badge/-Github-232323?logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/shadmazumder)
 
-
+### Visitors
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=shadmazumder)
 
 <!--
 **shadmazumder/shadmazumder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
