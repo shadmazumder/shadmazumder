@@ -1,5 +1,6 @@
-![Rayhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadmazumder&count_private=true&show_icons=true&theme=dark&hide=contribs)
-
+| Overall stats | Streak stats |
+| ------------- | ------------ |
+| ![Overall stats](https://github-readme-stats.vercel.app/api?username=shadmazumder&count_private=true&show_icons=true&theme=dark) | ![Streak stats](https://github-readme-streak-stats.herokuapp.com?user=shadmazumder&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D) |
 
 <!--
 **shadmazumder/shadmazumder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
