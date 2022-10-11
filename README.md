@@ -10,7 +10,13 @@ Some insights on my GitHub profile
 ![Trophy](https://github-profile-trophy.vercel.app/?username=shadmazumder&column=8&margin-w=15&margin-h=15&no-bg=true&theme=dark)
 
 ## Recent Posts
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [associatedtype on Protocol, making Protocol  Generic](https://mobidevtalk.com/associatedtype-on-protocol/)
+- [Swift Generic &amp; Protocol](https://mobidevtalk.com/swift-generic-protocol/)
+- [Swift Protocol Hub](https://mobidevtalk.com/swift-protocol-hub/)
+- [Swift Generic introduction](https://mobidevtalk.com/swift-generic-introduction/)
+- [Xcode Shortcuts the iOS Cheat Sheet](https://mobidevtalk.com/xcode-shortcuts-cheat-sheet/)
+<!-- BLOG-POST-LIST:END -->
 
 ## Profiles
 [![Github Badge](https://img.shields.io/badge/-Github-232323?logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/shadmazumder)
