@@ -5,8 +5,11 @@ Some insights on my GitHub profile
 | ------------- | ------------ |
 | ![Overall stats](https://github-readme-stats.vercel.app/api?username=shadmazumder&count_private=true&show_icons=true&theme=dark) | ![Streak stats](https://github-readme-streak-stats.herokuapp.com?user=shadmazumder&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D) |
 
-### Trophy
+### Trophies
 ![Trophy](https://github-profile-trophy.vercel.app/?username=shadmazumder&column=8&margin-w=15&margin-h=15&no-bg=true&theme=dark)
+
+### Most used language
+![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=shadmazumder&layout=compact&text_color=daf7dc&bg_color=151515&theme=dark)
 
 <!--
 **shadmazumder/shadmazumder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
