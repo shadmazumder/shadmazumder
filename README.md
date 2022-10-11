@@ -11,6 +11,11 @@ Some insights on my GitHub profile
 ### Most used language
 ![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=shadmazumder&layout=compact&text_color=daf7dc&bg_color=151515&theme=dark)
 
+### Badges
+[![Github Badge](https://img.shields.io/badge/-Github-232323?logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/shadmazumder)
+
+
+
 <!--
 **shadmazumder/shadmazumder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
