@@ -9,7 +9,7 @@ Some insights on my GitHub profile
 ### Trophies
 ![Trophy](https://github-profile-trophy.vercel.app/?username=shadmazumder&column=8&margin-w=15&margin-h=15&no-bg=true&theme=dark)
 
-## Recent Posts
+## Recently wrote about
 <!-- BLOG-POST-LIST:START -->
 - [associatedtype on Protocol, making Protocol  Generic](https://mobidevtalk.com/associatedtype-on-protocol/)
 - [Swift Generic &amp; Protocol](https://mobidevtalk.com/swift-generic-protocol/)
