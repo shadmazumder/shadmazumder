@@ -51,7 +51,7 @@ Some insights on my GitHub profile
 - [English Grammar Boot Camp](https://www.goodreads.com/review/show/2767298788?utm_medium=api&utm_source=rss) by Anne Curzan (⭐️3.89)
 - [The Dichotomy of Leadership: Balancing the Challenges of Extreme Ownership to Lead and Win](https://www.goodreads.com/review/show/2767291314?utm_medium=api&utm_source=rss) by Jocko Willink (⭐️4.36)
 - [Grokking Algorithms An Illustrated Guide For Programmers and Other Curious People](https://www.goodreads.com/review/show/2630300226?utm_medium=api&utm_source=rss) by Aditya Y. Bhargava (⭐️4.4)
-- [Around the World in Eighty Days](https://www.goodreads.com/review/show/2615886840?utm_medium=api&utm_source=rss) by Jules Verne (⭐️3.94)
+- [Around the World in Eighty Days (Extraordinary Voyages, #11)](https://www.goodreads.com/review/show/2615886840?utm_medium=api&utm_source=rss) by Jules Verne (⭐️3.94)
 - [Introduction to Algorithms](https://www.goodreads.com/review/show/2615877473?utm_medium=api&utm_source=rss) by Thomas H. Cormen (⭐️4.35)
 - [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.goodreads.com/review/show/2615875276?utm_medium=api&utm_source=rss) by Jocko Willink (⭐️4.23)
 - [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.goodreads.com/review/show/2615870981?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.26)
