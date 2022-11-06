@@ -50,7 +50,7 @@ Some insights on my GitHub profile
 - [The Compound Effect: Jumpstart Your Income, Your Life, Your Success](https://www.goodreads.com/review/show/2778814462?utm_medium=api&utm_source=rss) by Darren Hardy (⭐️4.22)
 - [English Grammar Boot Camp](https://www.goodreads.com/review/show/2767298788?utm_medium=api&utm_source=rss) by Anne Curzan (⭐️3.89)
 - [The Dichotomy of Leadership: Balancing the Challenges of Extreme Ownership to Lead and Win](https://www.goodreads.com/review/show/2767291314?utm_medium=api&utm_source=rss) by Jocko Willink (⭐️4.36)
-- [Grokking Algorithms An Illustrated Guide For Programmers and Other Curious People](https://www.goodreads.com/review/show/2630300226?utm_medium=api&utm_source=rss) by Aditya Y. Bhargava (⭐️4.41)
+- [Grokking Algorithms An Illustrated Guide For Programmers and Other Curious People](https://www.goodreads.com/review/show/2630300226?utm_medium=api&utm_source=rss) by Aditya Y. Bhargava (⭐️4.4)
 - [Around the World in Eighty Days (Extraordinary Voyages, #11)](https://www.goodreads.com/review/show/2615886840?utm_medium=api&utm_source=rss) by Jules Verne (⭐️3.94)
 - [Introduction to Algorithms](https://www.goodreads.com/review/show/2615877473?utm_medium=api&utm_source=rss) by Thomas H. Cormen (⭐️4.35)
 - [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.goodreads.com/review/show/2615875276?utm_medium=api&utm_source=rss) by Jocko Willink (⭐️4.23)
