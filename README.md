@@ -27,7 +27,7 @@ Some insights on my GitHub profile
 - [Domain Driven Design: How to Easily Implement Domain Driven Design - A Quick & Simple Guide](https://www.goodreads.com/review/show/4995652654?utm_medium=api&utm_source=rss) by Jason Scotts (⭐️3.23)
 - [The Amazon Way: 14 Leadership Principles Behind the World's Most Disruptive Company](https://www.goodreads.com/review/show/4995646842?utm_medium=api&utm_source=rss) by John Rossman (⭐️3.84)
 - [Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career](https://www.goodreads.com/review/show/4995612827?utm_medium=api&utm_source=rss) by Scott H. Young (⭐️3.95)
-- [Sapiens: A Brief History of Humankind](https://www.goodreads.com/review/show/2783222615?utm_medium=api&utm_source=rss) by Yuval Noah Harari (⭐️4.38)
+- [Sapiens: A Brief History of Humankind](https://www.goodreads.com/review/show/2783222615?utm_medium=api&utm_source=rss) by Yuval Noah Harari (⭐️4.37)
 - [Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers](https://www.goodreads.com/review/show/3911189074?utm_medium=api&utm_source=rss) by Timothy Ferriss (⭐️4.08)
 - [How to Blog for Profit without Selling Your Soul](https://www.goodreads.com/review/show/3868821049?utm_medium=api&utm_source=rss) by Ruth Soukup (⭐️4.08)
 - [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.goodreads.com/review/show/2820271313?utm_medium=api&utm_source=rss) by James Clear (⭐️4.38)
