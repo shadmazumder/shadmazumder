@@ -1,3 +1,6 @@
+# Hi, I am Rayhan 👋
+I am an iOS developer based in Dhaka, Bangladesh. I work for clients overseas. My recent work includes the flagship iOS apps for [P.F.C.](https://apps.apple.com/se/app/p-f-c-money-made-simple/id1377641836?l=en) and [Betalo](https://apps.apple.com/it/app/betalo/id910208332?l=en). I share my thoughts on my blog, [mobidevtalk](https://mobidevtalk.com). You can reach me on [LinkedIn](https://www.linkedin.com/in/shadmazumder/).
+
 ## GitHub
 Some insights on my GitHub profile
 | Overall stats | Streak stats |
