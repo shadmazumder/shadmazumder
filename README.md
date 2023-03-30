@@ -23,6 +23,8 @@ Some insights on my GitHub profile
 
 ### Books I read
 <!-- GOODREADS-LIST:START -->
+- [How to analyze people to improve your life](https://www.goodreads.com/review/show/5449964707?utm_medium=api&utm_source=rss) by Psychology and human behavior institute and Albert Stark (⭐️3.5)
+- [Fundamentals of Software Architecture: An Engineering Approach](https://www.goodreads.com/review/show/5449929355?utm_medium=api&utm_source=rss) by Mark   Richards (⭐️4.28)
 - [The Burnout Generation](https://www.goodreads.com/review/show/4995663770?utm_medium=api&utm_source=rss) by Anne Helen Petersen (⭐️3.2)
 - [Tribes: We Need You to Lead Us](https://www.goodreads.com/review/show/4995661702?utm_medium=api&utm_source=rss) by Seth Godin (⭐️3.8)
 - [Prediction Machines: The Simple Economics of Artificial Intelligence](https://www.goodreads.com/review/show/4995659734?utm_medium=api&utm_source=rss) by Ajay Agrawal (⭐️3.88)
@@ -61,8 +63,6 @@ Some insights on my GitHub profile
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/2615870582?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.39)
 - [The Lost Symbol (Robert Langdon, #3)](https://www.goodreads.com/review/show/2615868733?utm_medium=api&utm_source=rss) by Dan Brown (⭐️3.73)
 - [The Da Vinci Code (Robert Langdon, #2)](https://www.goodreads.com/review/show/2615867938?utm_medium=api&utm_source=rss) by Dan Brown (⭐️3.89)
-- [The Complete Software Developer's Career Guide: How to Learn Programming Languages Quickly, Ace Your Programming Interview, and Land Your Software Developer Dream Job](https://www.goodreads.com/review/show/2587842368?utm_medium=api&utm_source=rss) by John Z. Sonmez (⭐️4.06)
-- [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/review/show/2587841965?utm_medium=api&utm_source=rss) by Brian Christian (⭐️4.12)
 <!-- GOODREADS-LIST:END -->
 
 ## Profiles
