@@ -62,7 +62,7 @@ Some insights on my GitHub profile
 - [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.goodreads.com/review/show/2615870981?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.26)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/2615870582?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.39)
 - [The Lost Symbol (Robert Langdon, #3)](https://www.goodreads.com/review/show/2615868733?utm_medium=api&utm_source=rss) by Dan Brown (⭐️3.73)
-- [The Da Vinci Code (Robert Langdon, #2)](https://www.goodreads.com/review/show/2615867938?utm_medium=api&utm_source=rss) by Dan Brown (⭐️3.89)
+- [The Da Vinci Code (Robert Langdon, #2)](https://www.goodreads.com/review/show/2615867938?utm_medium=api&utm_source=rss) by Dan Brown (⭐️3.9)
 <!-- GOODREADS-LIST:END -->
 
 ## Profiles
