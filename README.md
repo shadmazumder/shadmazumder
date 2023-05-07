@@ -59,7 +59,7 @@ Some insights on my GitHub profile
 - [Around the World in Eighty Days](https://www.goodreads.com/review/show/2615886840?utm_medium=api&utm_source=rss) by Jules Verne (⭐️3.94)
 - [Introduction to Algorithms](https://www.goodreads.com/review/show/2615877473?utm_medium=api&utm_source=rss) by Thomas H. Cormen (⭐️4.34)
 - [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.goodreads.com/review/show/2615875276?utm_medium=api&utm_source=rss) by Jocko Willink (⭐️4.23)
-- [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.goodreads.com/review/show/2615870981?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.26)
+- [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.goodreads.com/review/show/2615870981?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.25)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/2615870582?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.39)
 - [The Lost Symbol (Robert Langdon, #3)](https://www.goodreads.com/review/show/2615868733?utm_medium=api&utm_source=rss) by Dan Brown (⭐️3.73)
 - [The Da Vinci Code (Robert Langdon, #2)](https://www.goodreads.com/review/show/2615867938?utm_medium=api&utm_source=rss) by Dan Brown (⭐️3.9)
