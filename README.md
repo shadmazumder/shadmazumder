@@ -39,7 +39,7 @@ Some insights on my GitHub profile
 - [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.goodreads.com/review/show/3723935883?utm_medium=api&utm_source=rss) by Gene Kim (⭐️4.23)
 - [Can't Hurt Me: Master Your Mind and Defy the Odds](https://www.goodreads.com/review/show/3580123809?utm_medium=api&utm_source=rss) by David Goggins (⭐️4.35)
 - [The Ideal Team Player: How to Recognize and Cultivate The Three Essential Virtues (J-B Lencioni Series)](https://www.goodreads.com/review/show/3188369779?utm_medium=api&utm_source=rss) by Patrick Lencioni (⭐️4.07)
-- [The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph](https://www.goodreads.com/review/show/3187092502?utm_medium=api&utm_source=rss) by Ryan Holiday (⭐️4.12)
+- [The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph](https://www.goodreads.com/review/show/3187092502?utm_medium=api&utm_source=rss) by Ryan Holiday (⭐️4.13)
 - [The Gifts of Imperfection](https://www.goodreads.com/review/show/3187091684?utm_medium=api&utm_source=rss) by Brené Brown (⭐️4.25)
 - [Sleep Smarter: 21 Essential Strategies to Sleep Your Way to A Better Body, Better Health, and Bigger Success](https://www.goodreads.com/review/show/3102072705?utm_medium=api&utm_source=rss) by Shawn Stevenson (⭐️3.93)
 - [It&apos;s Not What It Looks Like](https://www.goodreads.com/review/show/2945045833?utm_medium=api&utm_source=rss) by Molly Burke (⭐️3.95)
@@ -60,7 +60,7 @@ Some insights on my GitHub profile
 - [Introduction to Algorithms](https://www.goodreads.com/review/show/2615877473?utm_medium=api&utm_source=rss) by Thomas H. Cormen (⭐️4.35)
 - [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.goodreads.com/review/show/2615875276?utm_medium=api&utm_source=rss) by Jocko Willink (⭐️4.23)
 - [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.goodreads.com/review/show/2615870981?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.25)
-- [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/2615870582?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.39)
+- [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/2615870582?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.38)
 - [The Lost Symbol (Robert Langdon, #3)](https://www.goodreads.com/review/show/2615868733?utm_medium=api&utm_source=rss) by Dan Brown (⭐️3.73)
 - [The Da Vinci Code (Robert Langdon, #2)](https://www.goodreads.com/review/show/2615867938?utm_medium=api&utm_source=rss) by Dan Brown (⭐️3.9)
 <!-- GOODREADS-LIST:END -->
