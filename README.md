@@ -23,7 +23,7 @@ Some insights on my GitHub profile
 
 ### Books I read
 <!-- GOODREADS-LIST:START -->
-- [How to analyze people to improve your life](https://www.goodreads.com/review/show/5449964707?utm_medium=api&utm_source=rss) by Psychology and human behavior institute and Albert Stark (⭐️3.5)
+- [How to analyze people to improve your life](https://www.goodreads.com/review/show/5449964707?utm_medium=api&utm_source=rss) by Psychology and human behavior institute and Albert Stark (⭐️3.48)
 - [Fundamentals of Software Architecture: An Engineering Approach](https://www.goodreads.com/review/show/5449929355?utm_medium=api&utm_source=rss) by Mark   Richards (⭐️4.26)
 - [The Burnout Generation](https://www.goodreads.com/review/show/4995663770?utm_medium=api&utm_source=rss) by Anne Helen Petersen (⭐️3.2)
 - [Tribes: We Need You to Lead Us](https://www.goodreads.com/review/show/4995661702?utm_medium=api&utm_source=rss) by Seth Godin (⭐️3.8)
