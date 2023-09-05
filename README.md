@@ -42,7 +42,7 @@ Some insights on my GitHub profile
 - [The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph](https://www.goodreads.com/review/show/3187092502?utm_medium=api&utm_source=rss) by Ryan Holiday (⭐️4.12)
 - [The Gifts of Imperfection](https://www.goodreads.com/review/show/3187091684?utm_medium=api&utm_source=rss) by Brené Brown (⭐️4.25)
 - [Sleep Smarter: 21 Essential Strategies to Sleep Your Way to A Better Body, Better Health, and Bigger Success](https://www.goodreads.com/review/show/3102072705?utm_medium=api&utm_source=rss) by Shawn Stevenson (⭐️3.93)
-- [It&apos;s Not What It Looks Like](https://www.goodreads.com/review/show/2945045833?utm_medium=api&utm_source=rss) by Molly Burke (⭐️3.95)
+- [It&apos;s Not What It Looks Like](https://www.goodreads.com/review/show/2945045833?utm_medium=api&utm_source=rss) by Molly Burke (⭐️3.94)
 - [Your Best Year Ever: A 5-Step Plan for Achieving Your Most Important Goals](https://www.goodreads.com/review/show/3035935809?utm_medium=api&utm_source=rss) by Michael Hyatt (⭐️3.84)
 - [Free to Focus: A Total Productivity System to Achieve More by Doing Less](https://www.goodreads.com/review/show/2974064231?utm_medium=api&utm_source=rss) by Michael Hyatt (⭐️4.08)
 - [Fluent in 3 Months: How Anyone at Any Age Can Learn to Speak Any Language from Anywhere in the World](https://www.goodreads.com/review/show/2956749636?utm_medium=api&utm_source=rss) by Benny Lewis (⭐️3.61)
