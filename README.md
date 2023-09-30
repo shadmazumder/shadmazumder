@@ -30,7 +30,7 @@ Some insights on my GitHub profile
 - [Prediction Machines: The Simple Economics of Artificial Intelligence](https://www.goodreads.com/review/show/4995659734?utm_medium=api&utm_source=rss) by Ajay Agrawal (⭐️3.88)
 - [The Art of War](https://www.goodreads.com/review/show/4995657226?utm_medium=api&utm_source=rss) by Sun Tzu (⭐️3.99)
 - [Domain Driven Design: How to Easily Implement Domain Driven Design - A Quick & Simple Guide](https://www.goodreads.com/review/show/4995652654?utm_medium=api&utm_source=rss) by Jason Scotts (⭐️3.23)
-- [The Amazon Way: Amazon's Leadership Principles](https://www.goodreads.com/review/show/4995646842?utm_medium=api&utm_source=rss) by John Rossman (⭐️3.84)
+- [The Amazon Way: Amazon's Leadership Principles](https://www.goodreads.com/review/show/4995646842?utm_medium=api&utm_source=rss) by John Rossman (⭐️3.85)
 - [Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career](https://www.goodreads.com/review/show/4995612827?utm_medium=api&utm_source=rss) by Scott H. Young (⭐️3.95)
 - [Sapiens: A Brief History of Humankind](https://www.goodreads.com/review/show/2783222615?utm_medium=api&utm_source=rss) by Yuval Noah Harari (⭐️4.36)
 - [Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers](https://www.goodreads.com/review/show/3911189074?utm_medium=api&utm_source=rss) by Timothy Ferriss (⭐️4.08)
