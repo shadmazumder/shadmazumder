@@ -14,11 +14,11 @@ Some insights on my GitHub profile
 
 ## Recently wrote about
 <!-- BLOG-POST-LIST:START -->
+- [Certificates Identifiers Devices Profiles in iOS app distribution](https://mobidevtalk.com/certificates-identifiers-devices-profiles-in-ios-app-distribution/)
 - [associatedtype on Protocol, making Protocol  Generic](https://mobidevtalk.com/associatedtype-on-protocol/)
 - [Swift Generic &amp; Protocol](https://mobidevtalk.com/swift-generic-protocol/)
 - [Swift Protocol Hub](https://mobidevtalk.com/swift-protocol-hub/)
 - [Swift Generic introduction](https://mobidevtalk.com/swift-generic-introduction/)
-- [Xcode Shortcuts the iOS Cheat Sheet](https://mobidevtalk.com/xcode-shortcuts-cheat-sheet/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Books I read
