@@ -54,7 +54,7 @@ Some insights on my GitHub profile
 - [A Mind of Her Own](https://www.goodreads.com/review/show/2780545417?utm_medium=api&utm_source=rss) by Paula McLain (⭐️3.17)
 - [The Compound Effect: Jumpstart Your Income, Your Life, Your Success](https://www.goodreads.com/review/show/2778814462?utm_medium=api&utm_source=rss) by Darren Hardy (⭐️4.21)
 - [English Grammar Boot Camp](https://www.goodreads.com/review/show/2767298788?utm_medium=api&utm_source=rss) by Anne Curzan (⭐️3.92)
-- [The Dichotomy of Leadership: Balancing the Challenges of Extreme Ownership to Lead and Win](https://www.goodreads.com/review/show/2767291314?utm_medium=api&utm_source=rss) by Jocko Willink (⭐️4.36)
+- [The Dichotomy of Leadership: Balancing the Challenges of Extreme Ownership to Lead and Win](https://www.goodreads.com/review/show/2767291314?utm_medium=api&utm_source=rss) by Jocko Willink (⭐️4.35)
 - [Grokking Algorithms An Illustrated Guide For Programmers and Other Curious People](https://www.goodreads.com/review/show/2630300226?utm_medium=api&utm_source=rss) by Aditya Y. Bhargava (⭐️4.41)
 - [Around the World in Eighty Days](https://www.goodreads.com/review/show/2615886840?utm_medium=api&utm_source=rss) by Jules Verne (⭐️3.94)
 - [Introduction to Algorithms](https://www.goodreads.com/review/show/2615877473?utm_medium=api&utm_source=rss) by Charles E. Leiserson (⭐️4.35)
