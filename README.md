@@ -51,7 +51,7 @@ Some insights on my GitHub profile
 - [The Dead Drink First](https://www.goodreads.com/review/show/2922537889?utm_medium=api&utm_source=rss) by Dale Maharidge (⭐️3.89)
 - [How to Win Friends and Influence People](https://www.goodreads.com/review/show/2783221250?utm_medium=api&utm_source=rss) by Dale Carnegie (⭐️4.22)
 - [The Dispatcher (The Dispatcher, #1)](https://www.goodreads.com/review/show/2783218355?utm_medium=api&utm_source=rss) by John Scalzi (⭐️3.97)
-- [A Mind of Her Own](https://www.goodreads.com/review/show/2780545417?utm_medium=api&utm_source=rss) by Paula McLain (⭐️3.17)
+- [A Mind of Her Own](https://www.goodreads.com/review/show/2780545417?utm_medium=api&utm_source=rss) by Paula McLain (⭐️3.18)
 - [The Compound Effect: Jumpstart Your Income, Your Life, Your Success](https://www.goodreads.com/review/show/2778814462?utm_medium=api&utm_source=rss) by Darren Hardy (⭐️4.21)
 - [English Grammar Boot Camp](https://www.goodreads.com/review/show/2767298788?utm_medium=api&utm_source=rss) by Anne Curzan (⭐️3.92)
 - [The Dichotomy of Leadership: Balancing the Challenges of Extreme Ownership to Lead and Win](https://www.goodreads.com/review/show/2767291314?utm_medium=api&utm_source=rss) by Jocko Willink (⭐️4.36)
