@@ -25,7 +25,7 @@ Some insights on my GitHub profile
 <!-- GOODREADS-LIST:START -->
 - [How to analyze people to improve your life](https://www.goodreads.com/review/show/5449964707?utm_medium=api&utm_source=rss) by Psychology and human behavior institute and Albert Stark (⭐️3.55)
 - [Fundamentals of Software Architecture: An Engineering Approach](https://www.goodreads.com/review/show/5449929355?utm_medium=api&utm_source=rss) by Mark   Richards (⭐️4.26)
-- [The Burnout Generation](https://www.goodreads.com/review/show/4995663770?utm_medium=api&utm_source=rss) by Anne Helen Petersen (⭐️3.18)
+- [The Burnout Generation](https://www.goodreads.com/review/show/4995663770?utm_medium=api&utm_source=rss) by Anne Helen Petersen (⭐️3.19)
 - [Tribes: We Need You to Lead Us](https://www.goodreads.com/review/show/4995661702?utm_medium=api&utm_source=rss) by Seth Godin (⭐️3.8)
 - [Prediction Machines: The Simple Economics of Artificial Intelligence](https://www.goodreads.com/review/show/4995659734?utm_medium=api&utm_source=rss) by Ajay Agrawal (⭐️3.87)
 - [The Art of War](https://www.goodreads.com/review/show/4995657226?utm_medium=api&utm_source=rss) by Sun Tzu (⭐️3.98)
@@ -40,7 +40,7 @@ Some insights on my GitHub profile
 - [Can't Hurt Me: Master Your Mind and Defy the Odds](https://www.goodreads.com/review/show/3580123809?utm_medium=api&utm_source=rss) by David Goggins (⭐️4.32)
 - [The Ideal Team Player: How to Recognize and Cultivate The Three Essential Virtues (J-B Lencioni Series)](https://www.goodreads.com/review/show/3188369779?utm_medium=api&utm_source=rss) by Patrick Lencioni (⭐️4.07)
 - [The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph](https://www.goodreads.com/review/show/3187092502?utm_medium=api&utm_source=rss) by Ryan Holiday (⭐️4.13)
-- [The Gifts of Imperfection](https://www.goodreads.com/review/show/3187091684?utm_medium=api&utm_source=rss) by Brené Brown (⭐️4.25)
+- [The Gifts of Imperfection](https://www.goodreads.com/review/show/3187091684?utm_medium=api&utm_source=rss) by Brené Brown (⭐️4.26)
 - [Sleep Smarter: 21 Essential Strategies to Sleep Your Way to A Better Body, Better Health, and Bigger Success: A Longevity Book](https://www.goodreads.com/review/show/3102072705?utm_medium=api&utm_source=rss) by Shawn Stevenson (⭐️3.95)
 - [It&apos;s Not What It Looks Like](https://www.goodreads.com/review/show/2945045833?utm_medium=api&utm_source=rss) by Molly Burke (⭐️3.94)
 - [Your Best Year Ever: A 5-Step Plan for Achieving Your Most Important Goals](https://www.goodreads.com/review/show/3035935809?utm_medium=api&utm_source=rss) by Michael Hyatt (⭐️3.85)
