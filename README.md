@@ -23,6 +23,7 @@ Some insights on my GitHub profile
 
 ### Books I read
 <!-- GOODREADS-LIST:START -->
+- [Around the World in Eighty Days](https://www.goodreads.com/review/show/2615886840?utm_medium=api&utm_source=rss) by Jules Verne (⭐️3.94)
 - [How to analyze people to improve your life](https://www.goodreads.com/review/show/5449964707?utm_medium=api&utm_source=rss) by Psychology and human behavior institute and Albert Stark (⭐️3.55)
 - [Fundamentals of Software Architecture: An Engineering Approach](https://www.goodreads.com/review/show/5449929355?utm_medium=api&utm_source=rss) by Mark   Richards (⭐️4.25)
 - [The Burnout Generation](https://www.goodreads.com/review/show/4995663770?utm_medium=api&utm_source=rss) by Anne Helen Petersen (⭐️3.19)
@@ -54,7 +55,6 @@ Some insights on my GitHub profile
 - [English Grammar Boot Camp](https://www.goodreads.com/review/show/2767298788?utm_medium=api&utm_source=rss) by Anne Curzan (⭐️3.92)
 - [The Dichotomy of Leadership: Balancing the Challenges of Extreme Ownership to Lead and Win](https://www.goodreads.com/review/show/2767291314?utm_medium=api&utm_source=rss) by Jocko Willink (⭐️4.36)
 - [Grokking Algorithms An Illustrated Guide For Programmers and Other Curious People](https://www.goodreads.com/review/show/2630300226?utm_medium=api&utm_source=rss) by Aditya Y. Bhargava (⭐️4.41)
-- [Around the World in Eighty Days](https://www.goodreads.com/review/show/2615886840?utm_medium=api&utm_source=rss) by Jules Verne (⭐️3.94)
 - [Introduction to Algorithms](https://www.goodreads.com/review/show/2615877473?utm_medium=api&utm_source=rss) by Thomas H. Cormen (⭐️4.35)
 - [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.goodreads.com/review/show/2615875276?utm_medium=api&utm_source=rss) by Jocko Willink (⭐️4.24)
 - [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.goodreads.com/review/show/2615870981?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.25)
