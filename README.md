@@ -47,7 +47,7 @@ Some insights on my GitHub profile
 - [Your Best Year Ever: A 5-Step Plan for Achieving Your Most Important Goals](https://www.goodreads.com/review/show/3035935809?utm_medium=api&utm_source=rss) by Michael Hyatt (⭐️3.85)
 - [Free to Focus: A Total Productivity System to Achieve More by Doing Less](https://www.goodreads.com/review/show/2974064231?utm_medium=api&utm_source=rss) by Michael Hyatt (⭐️4.07)
 - [Fluent in 3 Months: How Anyone at Any Age Can Learn to Speak Any Language from Anywhere in the World](https://www.goodreads.com/review/show/2956749636?utm_medium=api&utm_source=rss) by Benny Lewis (⭐️3.62)
-- [The 3-Day Effect](https://www.goodreads.com/review/show/2828445000?utm_medium=api&utm_source=rss) by NOT A BOOK (⭐️3.46)
+- [The 3-Day Effect](https://www.goodreads.com/review/show/2828445000?utm_medium=api&utm_source=rss) by NOT A BOOK (⭐️3.45)
 - [The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change](https://www.goodreads.com/review/show/2790472761?utm_medium=api&utm_source=rss) by Stephen R. Covey (⭐️4.16)
 - [The Dead Drink First](https://www.goodreads.com/review/show/2922537889?utm_medium=api&utm_source=rss) by Dale Maharidge (⭐️3.89)
 - [How to Win Friends and Influence People](https://www.goodreads.com/review/show/2783221250?utm_medium=api&utm_source=rss) by Dale Carnegie (⭐️4.22)
