@@ -25,7 +25,7 @@ Some insights on my GitHub profile
 <!-- GOODREADS-LIST:START -->
 - [Around the World in Eighty Days](https://www.goodreads.com/review/show/2615886840?utm_medium=api&utm_source=rss) by Jules Verne (⭐️3.95)
 - [How to analyze people to improve your life](https://www.goodreads.com/review/show/5449964707?utm_medium=api&utm_source=rss) by Psychology and human behavior institute and Albert Stark (⭐️3.52)
-- [Fundamentals of Software Architecture: An Engineering Approach](https://www.goodreads.com/review/show/5449929355?utm_medium=api&utm_source=rss) by Mark   Richards (⭐️4.25)
+- [Fundamentals of Software Architecture: An Engineering Approach](https://www.goodreads.com/review/show/5449929355?utm_medium=api&utm_source=rss) by Mark   Richards (⭐️4.26)
 - [The Burnout Generation](https://www.goodreads.com/review/show/4995663770?utm_medium=api&utm_source=rss) by Anne Helen Petersen (⭐️3.18)
 - [Tribes: We Need You to Lead Us](https://www.goodreads.com/review/show/4995661702?utm_medium=api&utm_source=rss) by Seth Godin (⭐️3.8)
 - [Prediction Machines: The Simple Economics of Artificial Intelligence](https://www.goodreads.com/review/show/4995659734?utm_medium=api&utm_source=rss) by Ajay Agrawal (⭐️3.87)
