@@ -52,7 +52,7 @@ Some insights on my GitHub profile
 - [The Dead Drink First](https://www.goodreads.com/review/show/2922537889?utm_medium=api&utm_source=rss) by Dale Maharidge (⭐️3.89)
 - [How to Win Friends & Influence People](https://www.goodreads.com/review/show/2783221250?utm_medium=api&utm_source=rss) by Dale Carnegie (⭐️4.22)
 - [The Compound Effect: Jumpstart Your Income, Your Life, Your Success](https://www.goodreads.com/review/show/2778814462?utm_medium=api&utm_source=rss) by Darren Hardy (⭐️4.21)
-- [English Grammar Boot Camp](https://www.goodreads.com/review/show/2767298788?utm_medium=api&utm_source=rss) by Anne Curzan (⭐️3.92)
+- [English Grammar Boot Camp](https://www.goodreads.com/review/show/2767298788?utm_medium=api&utm_source=rss) by Anne Curzan (⭐️3.93)
 - [The Dichotomy of Leadership: Balancing the Challenges of Extreme Ownership to Lead and Win](https://www.goodreads.com/review/show/2767291314?utm_medium=api&utm_source=rss) by Jocko Willink (⭐️4.35)
 - [Grokking Algorithms An Illustrated Guide For Programmers and Other Curious People](https://www.goodreads.com/review/show/2630300226?utm_medium=api&utm_source=rss) by Aditya Y. Bhargava (⭐️4.41)
 - [Introduction to Algorithms](https://www.goodreads.com/review/show/2615877473?utm_medium=api&utm_source=rss) by Thomas H. Cormen (⭐️4.35)
