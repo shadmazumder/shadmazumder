@@ -62,7 +62,7 @@ Some insights on my GitHub profile
 - [The Lost Symbol (Robert Langdon, #3)](https://www.goodreads.com/review/show/2615868733?utm_medium=api&utm_source=rss) by Dan    Brown (⭐️3.74)
 - [The da Vinci Code (Robert Langdon, #2)](https://www.goodreads.com/review/show/2615867938?utm_medium=api&utm_source=rss) by Dan    Brown (⭐️3.92)
 - [The Complete Software Developer's Career Guide: How to Learn Your Next Programming Language, Ace Your Programming Interview, and Land The Coding Job Of Your Dreams](https://www.goodreads.com/review/show/2587842368?utm_medium=api&utm_source=rss) by John Z. Sonmez (⭐️4.03)
-- [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/review/show/2587841965?utm_medium=api&utm_source=rss) by Brian Christian (⭐️4.12)
+- [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/review/show/2587841965?utm_medium=api&utm_source=rss) by Brian  Christian (⭐️4.12)
 <!-- GOODREADS-LIST:END -->
 
 ## Profiles
