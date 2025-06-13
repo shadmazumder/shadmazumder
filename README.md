@@ -36,7 +36,7 @@ Some insights on my GitHub profile
 - [Sapiens: A Brief History of Humankind](https://www.goodreads.com/review/show/2783222615?utm_medium=api&utm_source=rss) by Yuval Noah Harari (⭐️4.33)
 - [Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers](https://www.goodreads.com/review/show/3911189074?utm_medium=api&utm_source=rss) by Timothy Ferriss (⭐️4.08)
 - [How to Blog for Profit without Selling Your Soul](https://www.goodreads.com/review/show/3868821049?utm_medium=api&utm_source=rss) by Ruth Soukup (⭐️4.06)
-- [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.goodreads.com/review/show/2820271313?utm_medium=api&utm_source=rss) by James Clear (⭐️4.34)
+- [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.goodreads.com/review/show/2820271313?utm_medium=api&utm_source=rss) by James Clear (⭐️4.33)
 - [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.goodreads.com/review/show/3723935883?utm_medium=api&utm_source=rss) by Gene Kim (⭐️4.23)
 - [Can't Hurt Me: Master Your Mind and Defy the Odds](https://www.goodreads.com/review/show/3580123809?utm_medium=api&utm_source=rss) by David Goggins (⭐️4.3)
 - [The Ideal Team Player: How to Recognize and Cultivate The Three Essential Virtues (J-B Lencioni Series)](https://www.goodreads.com/review/show/3188369779?utm_medium=api&utm_source=rss) by Patrick Lencioni (⭐️4.06)
