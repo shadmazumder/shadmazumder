@@ -30,7 +30,7 @@ Some insights on my GitHub profile
 - [Tribes: We Need You to Lead Us](https://www.goodreads.com/review/show/4995661702?utm_medium=api&utm_source=rss) by Seth Godin (⭐️3.8)
 - [Prediction Machines: The Simple Economics of Artificial Intelligence](https://www.goodreads.com/review/show/4995659734?utm_medium=api&utm_source=rss) by Ajay Agrawal (⭐️3.86)
 - [The Art of War](https://www.goodreads.com/review/show/4995657226?utm_medium=api&utm_source=rss) by Sun Tzu (⭐️3.98)
-- [Domain Driven Design : How to Easily Implement Domain Driven Design - A Quick & Simple Guide](https://www.goodreads.com/review/show/4995652654?utm_medium=api&utm_source=rss) by Jason Scotts (⭐️2.95)
+- [Domain Driven Design : How to Easily Implement Domain Driven Design - A Quick & Simple Guide](https://www.goodreads.com/review/show/4995652654?utm_medium=api&utm_source=rss) by Jason Scotts (⭐️)
 - [The Amazon Way: Amazon's Leadership Principles](https://www.goodreads.com/review/show/4995646842?utm_medium=api&utm_source=rss) by John Rossman (⭐️3.84)
 - [Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career](https://www.goodreads.com/review/show/4995612827?utm_medium=api&utm_source=rss) by Scott H. Young (⭐️3.95)
 - [Sapiens: A Brief History of Humankind](https://www.goodreads.com/review/show/2783222615?utm_medium=api&utm_source=rss) by Yuval Noah Harari (⭐️4.33)
