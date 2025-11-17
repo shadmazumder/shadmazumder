@@ -37,7 +37,7 @@ Some insights on my GitHub profile
 - [Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers](https://www.goodreads.com/review/show/3911189074?utm_medium=api&utm_source=rss) by Timothy Ferriss (⭐️4.08)
 - [How to Blog for Profit without Selling Your Soul](https://www.goodreads.com/review/show/3868821049?utm_medium=api&utm_source=rss) by Ruth Soukup (⭐️4.06)
 - [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.goodreads.com/review/show/2820271313?utm_medium=api&utm_source=rss) by James Clear (⭐️4.33)
-- [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.goodreads.com/review/show/3723935883?utm_medium=api&utm_source=rss) by Gene Kim (⭐️4.23)
+- [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.goodreads.com/review/show/3723935883?utm_medium=api&utm_source=rss) by Gene Kim (⭐️4.22)
 - [Can't Hurt Me: Master Your Mind and Defy the Odds](https://www.goodreads.com/review/show/3580123809?utm_medium=api&utm_source=rss) by David Goggins (⭐️4.3)
 - [The Ideal Team Player: How to Recognize and Cultivate The Three Essential Virtues (J-B Lencioni Series)](https://www.goodreads.com/review/show/3188369779?utm_medium=api&utm_source=rss) by Patrick Lencioni (⭐️4.06)
 - [The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph](https://www.goodreads.com/review/show/3187092502?utm_medium=api&utm_source=rss) by Ryan Holiday (⭐️4.12)
