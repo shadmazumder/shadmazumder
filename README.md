@@ -29,7 +29,7 @@ Some insights on my GitHub profile
 - [The Burnout Generation](https://www.goodreads.com/review/show/4995663770?utm_medium=api&utm_source=rss) by Anne Helen Petersen (⭐️3.17)
 - [Tribes: We Need You to Lead Us](https://www.goodreads.com/review/show/4995661702?utm_medium=api&utm_source=rss) by Seth Godin (⭐️3.8)
 - [Prediction Machines: The Simple Economics of Artificial Intelligence](https://www.goodreads.com/review/show/4995659734?utm_medium=api&utm_source=rss) by Ajay Agrawal (⭐️3.86)
-- [The Art of War](https://www.goodreads.com/review/show/4995657226?utm_medium=api&utm_source=rss) by Sun Tzu (⭐️3.98)
+- [The Art of War](https://www.goodreads.com/review/show/4995657226?utm_medium=api&utm_source=rss) by Sun Tzu (⭐️3.97)
 - [Domain Driven Design : How to Easily Implement Domain Driven Design - A Quick & Simple Guide](https://www.goodreads.com/review/show/4995652654?utm_medium=api&utm_source=rss) by Jason Scotts (⭐️2.91)
 - [The Amazon Way: Amazon's Leadership Principles](https://www.goodreads.com/review/show/4995646842?utm_medium=api&utm_source=rss) by John Rossman (⭐️3.84)
 - [Ultralearning: The Essential Guide To Mastering Hard Skills And Future-Proofing Your Career](https://www.goodreads.com/review/show/4995612827?utm_medium=api&utm_source=rss) by Scott H. Young (⭐️3.95)
