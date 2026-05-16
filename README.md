@@ -50,7 +50,7 @@ Some insights on my GitHub profile
 - [The 3-Day Effect](https://www.goodreads.com/review/show/2828445000?utm_medium=api&utm_source=rss) by NOT A BOOK (⭐️3.45)
 - [The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change](https://www.goodreads.com/review/show/2790472761?utm_medium=api&utm_source=rss) by Stephen R. Covey (⭐️4.16)
 - [The Dead Drink First](https://www.goodreads.com/review/show/2922537889?utm_medium=api&utm_source=rss) by Dale Maharidge (⭐️3.89)
-- [How to Win Friends & Influence People](https://www.goodreads.com/review/show/2783221250?utm_medium=api&utm_source=rss) by Dale Carnegie (⭐️4.22)
+- [How to Win Friends & Influence People](https://www.goodreads.com/review/show/2783221250?utm_medium=api&utm_source=rss) by Dale Carnegie (⭐️4.21)
 - [The Compound Effect: Jumpstart Your Income, Your Life, Your Success](https://www.goodreads.com/review/show/2778814462?utm_medium=api&utm_source=rss) by Darren Hardy (⭐️4.2)
 - [English Grammar Boot Camp](https://www.goodreads.com/review/show/2767298788?utm_medium=api&utm_source=rss) by Anne Curzan (⭐️3.92)
 - [The Dichotomy of Leadership: Balancing the Challenges of Extreme Ownership to Lead and Win](https://www.goodreads.com/review/show/2767291314?utm_medium=api&utm_source=rss) by Jocko Willink (⭐️4.34)
@@ -62,7 +62,7 @@ Some insights on my GitHub profile
 - [The Lost Symbol (Robert Langdon, #3)](https://www.goodreads.com/review/show/2615868733?utm_medium=api&utm_source=rss) by Dan    Brown (⭐️3.75)
 - [The Da Vinci Code (Robert Langdon, #2)](https://www.goodreads.com/review/show/2615867938?utm_medium=api&utm_source=rss) by Dan    Brown (⭐️3.92)
 - [The Complete Software Developer's Career Guide: How to Learn Your Next Programming Language, Ace Your Programming Interview, and Land The Coding Job Of Your Dreams](https://www.goodreads.com/review/show/2587842368?utm_medium=api&utm_source=rss) by John Sonmez (⭐️4.02)
-- [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/review/show/2587841965?utm_medium=api&utm_source=rss) by Brian  Christian (⭐️4.11)
+- [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/review/show/2587841965?utm_medium=api&utm_source=rss) by Brian  Christian (⭐️4.12)
 <!-- GOODREADS-LIST:END -->
 
 ## Profiles
